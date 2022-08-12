@@ -1,0 +1,176 @@
+body {
+   position: fixed;
+}
+
+a {
+   text-decoration: none;
+   color: #000;
+}
+
+.menu {
+   list-style-type: none;
+}
+
+.list {
+   font-family: 'Quicksand', sans-serif;
+   font-size: 70px;
+   position: absolute;
+   width: 24px;
+   height: 11px;
+   left: 100.65px;
+   top: -23px;
+}
+.list1 {
+   font-family: 'Dancing Script', cursive;
+   font-size: 17px;
+   position: absolute;
+   width: 24px;
+   height: 11px;
+   left: 700.65px;
+   top: 24.56px;
+}
+.list2 {
+   font-family: 'Dancing Script', cursive;
+   font-size: 17px;
+   position: absolute;
+   width: 24px;
+   height: 11px;
+   left: 800.65px;
+   top: 24.56px;
+}
+.list3 {
+   font-family: 'Dancing Script', cursive;
+   font-size: 17px;
+   position: absolute;
+   width: 24px;
+   height: 11px;
+   left: 900.65px;
+   top: 24.56px;
+}
+.list4 {
+   font-family: 'Dancing Script', cursive;
+   font-size: 17px;
+   position: absolute;
+   width: 24px;
+   height: 11px;
+   left: 1050.65px;
+   top: 24.56px;
+}
+.list5 {
+   font-family: 'Dancing Script', cursive;
+   font-size: 17px;
+   position: absolute;
+   line-height: 10px;
+   width: 50px;
+   height: 11px;
+   left: 1200.65px;
+   top: 24.56px;
+}
+
+.button {
+   color: white;
+   position: absolute;
+   width: 90.76px;
+   height: 40.67px;
+   left: 1300.68px;
+   top: 10.35px;
+   background: #313131;
+   box-shadow: 0px 51.159px 40.9272px rgba(49, 49, 49, 0.1), 0px 33.1586px 23.969px rgba(49, 49, 49, 0.0759259), 0px 19.7057px 13.0361px rgba(49, 49, 49, 0.0607407), 0px 10.2318px 6.65068px rgba(49, 49, 49, 0.05), 0px 4.16852px 3.33481px rgba(49, 49, 49, 0.0392593), 0px 0.94739px 1.61056px rgba(49, 49, 49, 0.0240741);
+   border-radius: 4.55795px;
+}
+
+.text {
+   color: #000;
+   position: absolute;
+   font-family: 'Barlow', sans-serif;
+   font-size: 100px;
+   width: 158px;
+   height: 65px;
+   left: 120.51px;
+   top: 160.13px;
+}
+.text2 {
+   color: #000;
+   position: absolute;
+   font-family: 'Barlow', sans-serif;
+   font-size: 70px;
+   width: 158px;
+   height: 65px;
+   left: 140px;
+   top: 270.13px;
+}
+.text3 {
+   color: #000;
+   position: absolute;
+   font-family: 'Barlow', sans-serif;
+   font-size: 100px;
+   width: 158px;
+   height: 65px;
+   left: 289.51px;
+   top: 232.13px;
+}
+
+.girl {
+   position: absolute;
+   width: 500.56px;
+   height: 800.82px;
+   left: 1100.35px;
+   top: 80px;
+   z-index: 1;
+}
+.line1 {
+   position: absolute;
+   width: 450.56px;
+   height: 250px;
+   left: 800px;
+   top: 80.32px;
+}
+.line2 {
+   position: absolute;
+   width: 450.56px;
+   height: 480px;
+   left: 1300px;
+   top: 200px;
+}
+
+.maintext1 {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   position: fixed;
+   width: 239.42px;
+   height: 13px;
+   left: 140.06px;
+   top: 450.75px;
+}
+.maintext2 {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 15px;
+   position: absolute;
+   width: 239.42px;
+   height: 10px;
+   left: 140.06px;
+   top: 500.4px;
+}
+
+.input {
+   box-sizing: border-box;
+   position: absolute;
+   width: 300.49px;
+   height: 50.67px;
+   left: 120.06px;
+   top: 650px;
+   background: #FFFFFF;
+   border: 0.51159px solid #000000;
+   border-radius: 2.55795px;
+   align-items: center;
+}
+.btn {
+   color: white;
+   position: absolute;
+   width: 150.78px;
+   height: 52.67px;
+   left: 419.77px;
+   top: 649.53px;
+   background: #313131;
+   box-shadow: 0px 51.159px 40.9272px rgba(49, 49, 49, 0.1), 0px 33.1586px 23.969px rgba(49, 49, 49, 0.0759259), 0px 19.7057px 13.0361px rgba(49, 49, 49, 0.0607407), 0px 10.2318px 6.65068px rgba(49, 49, 49, 0.05), 0px 4.16852px 3.33481px rgba(49, 49, 49, 0.0392593), 0px 0.94739px 1.61056px rgba(49, 49, 49, 0.0240741);
+}
